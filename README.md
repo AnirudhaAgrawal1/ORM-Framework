@@ -10,7 +10,7 @@
 
 - No need to create pojo's for the database tables, all the pojos will be created in the specified folder structure and jar file will be created of compiled pojo's.
 
-- User only need to create a file named as conf.json in the working directory that contains required information to establish connection with the database.
+- User only need to create a file named as config.json in the working directory that contains required information to establish connection with the database.
 
 ## Documentation
 
@@ -90,7 +90,7 @@ Download the jar files from the dist folder and put it into the working director
 
 Then the user need to create a file named as config.json in the working directory with the information related to database,packaging structure and jar file.
 
-conf.json file should be created as shown below :-
+config.json file should be created as shown below :-
 
 ```
 {
