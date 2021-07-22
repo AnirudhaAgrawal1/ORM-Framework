@@ -86,7 +86,9 @@ An exception that provide information related to accessing or setting up the dat
 
 ### Setting up
 
-Firstly user need to create a file named as config.json in the working directory with the information related to database,packaging structure and jar file.
+Download the jar files from the dist folder and put it into the working directory or in the lib folder.
+
+Then the user need to create a file named as config.json in the working directory with the information related to database,packaging structure and jar file.
 
 conf.json file should be created as shown below :-
 
